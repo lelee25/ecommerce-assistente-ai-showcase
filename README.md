@@ -1,6 +1,6 @@
-# Il Mago dell’Affare
+# E-commerce e assistente AI
 
-Progetto personale · Prodotti
+Progetto software · Prodotti
 
 Piattaforma e-commerce con assistente, web app e integrazione Telegram.
 
@@ -22,9 +22,9 @@ Le operazioni commerciali restano distinte dalla generazione delle risposte.
 
 ## Esplora
 
-[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/mago/)
+[Scheda nel portfolio](https://portfolio.lele-tradevalue.com/progetti/ecommerce-assistente-ai/)
 
-[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/mago.html)
+[Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/ecommerce-assistente-ai.html)
 
 ## Ambito pubblico
 
