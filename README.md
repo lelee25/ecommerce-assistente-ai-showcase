@@ -26,6 +26,8 @@ Le operazioni commerciali restano distinte dalla generazione delle risposte.
 
 [Mappa concettuale interattiva](https://portfolio.lele-tradevalue.com/architetture/ecommerce-assistente-ai.html)
 
+[Esplora la prova dimostrativa](https://portfolio.lele-tradevalue.com/progetti/ecommerce-assistente-ai/#demo)
+
 ## Ambito pubblico
 
 Panoramica selettiva del progetto. Codice, dati reali e logiche riservate restano privati. Questo repository non contiene il codice originale o la sua cronologia. Non viene dichiarata una licenza open source sul software privato.
